@@ -1,0 +1,12 @@
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\bin\Debug\net6.0\CarRentalApp.Core.deps.json
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\bin\Debug\net6.0\CarRentalApp.Core.dll
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\bin\Debug\net6.0\CarRentalApp.Core.pdb
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.csproj.AssemblyReference.cache
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.AssemblyInfoInputs.cache
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.AssemblyInfo.cs
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.dll
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\refint\CarRentalApp.Core.dll
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\CarRentalApp.Core.pdb
+C:\Users\naman\source\repos\CarRentalApp\CarRentalApp.Core\obj\Debug\net6.0\ref\CarRentalApp.Core.dll
